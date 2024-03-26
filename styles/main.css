@@ -1,0 +1,86 @@
+body {
+  font-family: 'Poppins';
+}
+
+.blogTitle {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: orange;
+}
+
+.blogSocial {
+  text-align: center;
+  word-spacing: 10px;
+  padding-bottom: 5px;
+  font-size: 20px;
+}
+
+.bg-secondary-subtle {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.bi-twitch {
+  color: #6441a5;
+}
+
+.bi-youtube {
+  color: #ff0000;
+}
+
+.bi-twitter-x {
+  color: black;
+}
+
+.bi-instagram {
+  color: #e95950;
+}
+
+.main-content {
+  margin-top: 20px;
+}
+
+.ct-left {
+  width: 75%;
+  float: left;
+}
+
+.ct-right {
+  width: 25%;
+  float: right;
+}
+
+#blog-post-one {
+  padding: 10px;
+}
+
+#blog-post-two {
+  padding: 10px;
+}
+
+#my-profile {
+  margin-top: 10px;
+}
+
+#go-pg {
+  padding: 10px;
+}
+
+.box-model {
+  width: 300px;
+  height: 150px;
+  margin: 10px;
+  border: 5px solid #ccc;
+  padding: 20px;
+  background-color: #eee;
+}
+
+.container {
+  margin: 20px auto;
+}
+
+#blog-txt {
+  padding: 10px;
+  text-align: justify;
+}
