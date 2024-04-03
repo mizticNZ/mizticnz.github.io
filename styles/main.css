@@ -41,16 +41,6 @@ body {
   margin-top: 20px;
 }
 
-.ct-left {
-  width: 75%;
-  float: left;
-}
-
-.ct-right {
-  width: 25%;
-  float: right;
-}
-
 #blog-post {
   padding: 10px;
 }
